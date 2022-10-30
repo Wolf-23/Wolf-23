@@ -3,7 +3,7 @@
 💻 Dopo essermi appassionato alla Programmazione e al Web e App Developing, ho frequentato il corso di Full Stack Web Development attraverso la Tech Academy online Boolean Careers.<br>
 📖 Il mio interesse sul tema della crescita personale mi spinge a lavorare su me stesso per migliorarmi giorno dopo giorno. Curiosità, applicazione e lavoro di squadra sono i miei punti di forza.<br><br>
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/lupinuriccardo__/?hl=it) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lupinuriccardo/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/lupinuriccardo_) 
 
 # 💻 Tech Stack:
