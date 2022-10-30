@@ -1,3 +1,4 @@
+<div align="center">
 # 💫 About Me:
 🪫 Nato con la passione per la tecnologia e per l'elettronica, ho conseguito il diploma in Elettrotecnica.<br>
 💻 Dopo essermi appassionato alla Programmazione e al Web e App Developing, ho frequentato il corso di Full Stack Web Development attraverso la Tech Academy online Boolean Careers.<br>
@@ -26,10 +27,10 @@
 </div>
 
 # 📊 GitHub Stats:
-<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=Wolf-23&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Wolf-23&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wolf-23&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Wolf-23&icon=2&color=11)](https://visitcount.itsvg.in)
+</div>
