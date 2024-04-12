@@ -4,7 +4,7 @@
 📖 Il mio interesse sul tema della crescita personale mi spinge a lavorare su me stesso per migliorarmi giorno dopo giorno. Curiosità, applicazione e lavoro di squadra sono i miei punti di forza.<br><br>
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lupinuriccardo/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lupinuriccardo/) 
 
 # 💻 Tech Stack:
 <div align="center">
